@@ -1,3 +1,6 @@
 body {
-    background-color: #161819; /* страница имеет
-  }
+    background-color: #161819;
+}
+.page {
+    color: red;
+}
